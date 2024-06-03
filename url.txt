@@ -1,0 +1,2 @@
+URL Dataset : https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis
+URL Deployment : https://huggingface.co/spaces/raniesm/E-Commerce_Customer_Churn
